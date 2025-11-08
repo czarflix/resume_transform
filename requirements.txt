@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+gunicorn
+httpx
+aiofiles
+PyMuPDF
+python-docx
+reportlab
